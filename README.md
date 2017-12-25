@@ -30,6 +30,7 @@ Make sure you have reviewed the documentation on the Github as well as running:
 
 _**Please provide as much as possible information to reproduce the issue. Delete sections that do not apply to you.**_
 
+---
 # Basic information
   - Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
   
@@ -37,7 +38,7 @@ _**Please provide as much as possible information to reproduce the issue. Delete
   
   - Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
  
- 
+--- 
   # Issue with the execution
  - Did you compile the miner yourself or are you running the release?  
    
@@ -48,8 +49,9 @@ _**Please provide as much as possible information to reproduce the issue. Delete
     xmr-stak --version-long
 ```
 and add the output here  
- 
- 
+  
+  
+  
  1. Describe the issue clearly:
  
 	a. A short synopsis of what is happening.
@@ -64,7 +66,7 @@ and add the output here
         
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
-
+---
 # Stability issue
  1. Describe the issue clearly:
  
@@ -80,7 +82,7 @@ and add the output here
         
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
-
+---
 # AMD OpenCl issue
  - Provide the error message, log and/or relevant screenshot
   ```
@@ -102,7 +104,7 @@ and add the output here
         
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
-
+---
 # Compile issues
  - Which OS do you use?
  
