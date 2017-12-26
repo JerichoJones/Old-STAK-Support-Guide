@@ -1,5 +1,5 @@
 ## How to Submit an Issue Like A Boss!
-
+---
 _How-TO type questions are better suited to forums such as REDDIT.
 There is a much larger audience of people that have probably
 already been through and resolved the same issue._
@@ -8,7 +8,11 @@ Make sure you have reviewed the documentation on the Github as well as running:
 ```
 	XMR-STAK --help
 ```
-**^^ This will answer most How-TO type questions. ^^**
+** ^^ This will answer most How-TO type questions. ^^ **
+
+---
+
+### What you should be doing to make this go as smoothly as possible
 
 1. Choose a simple, clear title for your Issue Subject
 2. Stick to one problem per issue report.
