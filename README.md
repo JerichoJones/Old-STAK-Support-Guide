@@ -8,7 +8,7 @@ Make sure you have reviewed the documentation on the Github as well as running:
 ```
 	XMR-STAK --help
 ```
-** ^^ This will answer most How-TO type questions. ^^ **
+**^^ This will answer most How-TO type questions. ^^**
 
 1. Choose a simple, clear title for your Issue Subject
 2. Stick to one problem per issue report.
