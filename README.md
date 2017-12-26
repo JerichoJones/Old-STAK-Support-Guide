@@ -35,7 +35,7 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 _**Please provide as much as possible information to reproduce the issue. Delete sections that do not apply to you.**_
 
 ---
-# Basic information
+# Basic information 
   - Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
   
   - Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
@@ -43,7 +43,7 @@ _**Please provide as much as possible information to reproduce the issue. Delete
   - Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
  
 --- 
-  # Issue with the execution
+  # Issue with the execution of XMR-STAK
  - Did you compile the miner yourself or are you running the release?  
    
    
@@ -71,7 +71,7 @@ and add the output here
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
 ---
-# Stability issue
+# Stability issue with XMR-STAK
  1. Describe the issue clearly:
  
 	a. A short synopsis of what is happening.
@@ -87,7 +87,7 @@ and add the output here
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
 ---
-# AMD OpenCl issue
+# AMD OpenCl issue with XMR-STAK
  - Provide the error message, log and/or relevant screenshot
   ```
  - Run `clinfo` and add the output here
@@ -109,7 +109,7 @@ and add the output here
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
 ---
-# Compile issues
+# Issue Compiling XMR-STAK
  - Which OS do you use?
  
  - What software are you using to compile? Include versions (this can be very important).
