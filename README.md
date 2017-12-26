@@ -14,7 +14,7 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
   
 ## Content Overview
 
-* [What you should be doing to make this go as smoothly as possible](./#what-you-should-be-doing-to-make-this-go-as-smoothly-as-possible)
+* [What you should be doing to make this go as smoothly as possible](#what-you-should-be-doing-to-make-this-go-as-smoothly-as-possible)
 * [Issue with the execution of STAK](./README.md#issue-with-the-execution-of-stak)
 * [Stability issue with STAK](./README.md#stability-issue-with-stak)
 * [AMD OpenCl issue with STAK](./README.md#amd-opencl-issue-with-stak)
