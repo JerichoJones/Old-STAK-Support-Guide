@@ -19,6 +19,7 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 * [Stability issue with STAK](#stability-issue-with-stak)
 * [AMD OpenCl issue with STAK](#amd-opencl-issue-with-stak)
 * [Issue Compiling STAK](#issue-compiling-stak)
+* [Other Issue with STAK](#other-issue-with-stak)
 
   
 #### What you should be doing to make this go as smoothly as possible
@@ -41,11 +42,13 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 8. Complete the template below:
 
 
-_**Please provide as much as possible information to reproduce the issue. Delete sections that do not apply to you.**_
+_**Please provide as much as possible information to reproduce the issue. Use the section that applies to your issue.**_
 
 ---
 
 # Issue with the execution of STAK
+- Which OS do you use?
+
 - Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
   
 - Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
@@ -80,13 +83,16 @@ and add the output here
 
 ---
 # Stability issue with STAK
+- Which OS do you use?
+
 - Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
   
 - Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
   
 - Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
- 
-
+  
+  
+  
  1. Describe the issue clearly:
  
 	a. A short synopsis of what is happening.
@@ -103,11 +109,14 @@ and add the output here
 
 ---
 # AMD OpenCl issue with STAK
+- Which OS do you use?
+  
   ```
  - Run `clinfo` and add the output here
   ```
-
-
+  
+  
+  
  1. Describe the issue clearly:
  
 	a. A short synopsis of what is happening.
@@ -131,10 +140,35 @@ and add the output here
  - Add **all** commands you used and the **full** compile output here
  
  - Run `cmake -LA .` in the build folder and add the output here
+  
+  
+  
+ 1. Describe the issue clearly:
  
- 
- 
- 
+	a. A short synopsis of what is happening.
+    
+	b. What you expect should be happening.
+    
+	c. Exact error message(s), if any.
+    
+	d. Include screenshots and/or logs of the issue.
+    
+	e. If useful, edit the screenshot with circles or arrows to highlight the error.
+        
+ 2. Describe what steps you have performed in an attempt to resolve the issue.
+
+---
+# Other Issue with STAK
+- Which OS do you use?
+   
+- Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
+  
+- Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
+  
+- Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
+  
+  
+  
  1. Describe the issue clearly:
  
 	a. A short synopsis of what is happening.
