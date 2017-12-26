@@ -49,7 +49,7 @@ _**Please provide as much as possible information to reproduce the issue. Delete
   - Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
  
 --- 
-  # Issue with the execution of XMR-STAK
+# Issue with the execution of XMR-STAK
  - Did you compile the miner yourself or are you running the release?  
    
    
