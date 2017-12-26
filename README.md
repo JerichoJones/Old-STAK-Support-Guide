@@ -15,7 +15,7 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 ## Content Overview
 
 * [Basic information](./README.md#basic-information)
-* [Issue with the execution of XMR-STAK](./README.md#Issue-with-the-execution-of-XMR\-STAK)
+* [Issue with the execution of XMR-STAK](./README.md#Issue-with-the-execution-of-STAK)
   
   
 #### What you should be doing to make this go as smoothly as possible
@@ -49,7 +49,7 @@ _**Please provide as much as possible information to reproduce the issue. Delete
   - Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
  
 --- 
-# Issue with the execution of XMR-STAK
+# Issue with the execution of STAK
  - Did you compile the miner yourself or are you running the release?  
    
    
