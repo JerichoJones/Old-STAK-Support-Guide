@@ -11,7 +11,13 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 **^^ This will answer most How-TO type questions. ^^**
 
 ---
+  
+## Content Overview
 
+* [Basic information](#basic-information)
+* [Issue with the execution of XMR-STAK](#Issue-with-the-execution-of-XMR-STAK)
+  
+  
 #### What you should be doing to make this go as smoothly as possible
 
 1. Choose a simple, clear title for your Issue Subject
@@ -35,7 +41,7 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 _**Please provide as much as possible information to reproduce the issue. Delete sections that do not apply to you.**_
 
 ---
-# Basic information 
+#Basic information 
   - Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
   
   - Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
@@ -43,7 +49,7 @@ _**Please provide as much as possible information to reproduce the issue. Delete
   - Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
  
 --- 
-  # Issue with the execution of XMR-STAK
+  #Issue with the execution of XMR-STAK
  - Did you compile the miner yourself or are you running the release?  
    
    
