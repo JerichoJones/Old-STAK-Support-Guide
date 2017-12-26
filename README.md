@@ -1,6 +1,8 @@
 ## How to Submit an Issue Like A Boss!
 ---
-_How-TO type questions are better suited to forums such as [REDDIT](https://www.reddit.com/r/MoneroMining/new/).
+**_How-TO and tuning your hardware is not within the scope of Github support and will most likely be ignored._**
+
+_How-TO and tuning type questions are better suited to forums such as [REDDIT](https://www.reddit.com/r/MoneroMining/new/).
 There is a much larger audience of people that have probably
 already been through and resolved the same issue._
 
@@ -9,8 +11,6 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 	XMR-STAK --help
 ```
 **^^ This will answer most How-TO type questions. ^^**
-
-**_Tuning your hardware is not within the scope of Github support and will most likely be ignored._**
 
 ---
   
