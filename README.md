@@ -16,7 +16,10 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 
 * [Basic information](./README.md#basic-information)
 * [Issue with the execution of STAK](./README.md#issue-with-the-execution-of-stak)
-  
+* [Stability issue with STAK](./README.md#stability-issue-with-stak)
+* [AMD OpenCl issue with STAK](./README.md#amd-opencl-issue-with-stak)
+* [Issue Compiling STAK](./README.md#issue-compiling-stak)
+
   
 #### What you should be doing to make this go as smoothly as possible
 
@@ -77,7 +80,7 @@ and add the output here
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
 ---
-# Stability issue with XMR-STAK
+# Stability issue with STAK
  1. Describe the issue clearly:
  
 	a. A short synopsis of what is happening.
@@ -93,7 +96,7 @@ and add the output here
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
 ---
-# AMD OpenCl issue with XMR-STAK
+# AMD OpenCl issue with STAK
  - Provide the error message, log and/or relevant screenshot
   ```
  - Run `clinfo` and add the output here
@@ -115,7 +118,7 @@ and add the output here
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
 ---
-# Issue Compiling XMR-STAK
+# Issue Compiling STAK
  - Which OS do you use?
  
  - What software are you using to compile? Include versions (this can be very important).
