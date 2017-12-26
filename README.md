@@ -108,11 +108,11 @@ and add the output here
  2. Describe what steps you have performed in an attempt to resolve the issue.
 
 ---
-# AMD OpenCl issue with STAK
+# AMD OpenCL issue with STAK
 - Which OS do you use?
   
   ```
- - Run `clinfo` and add the output here
+  Run `clinfo` and add the output here
   ```
   
   
