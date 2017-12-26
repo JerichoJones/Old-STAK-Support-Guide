@@ -15,7 +15,6 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 ## Content Overview
 
 * [What you should be doing to make this go as smoothly as possible](./README.md#what-you-should-be-doing-to-make-this-go-as-smoothly-as-possible)
-* [Basic information](./README.md#basic-information)
 * [Issue with the execution of STAK](./README.md#issue-with-the-execution-of-stak)
 * [Stability issue with STAK](./README.md#stability-issue-with-stak)
 * [AMD OpenCl issue with STAK](./README.md#amd-opencl-issue-with-stak)
@@ -45,16 +44,15 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 _**Please provide as much as possible information to reproduce the issue. Delete sections that do not apply to you.**_
 
 ---
-# Basic information 
-  - Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
-  
-  - Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
-  
-  - Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
- 
---- 
+
 # Issue with the execution of STAK
- - Did you compile the miner yourself or are you running the release?  
+- Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
+  
+- Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
+  
+- Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
+ 
+- Did you compile the miner yourself or are you running the release?  
    
    
  - Run  
@@ -82,6 +80,13 @@ and add the output here
 
 ---
 # Stability issue with STAK
+- Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
+  
+- Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
+  
+- Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
+ 
+
  1. Describe the issue clearly:
  
 	a. A short synopsis of what is happening.
@@ -98,6 +103,13 @@ and add the output here
 
 ---
 # AMD OpenCl issue with STAK
+- Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
+  
+- Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
+  
+- Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
+ 
+
  - Provide the error message, log and/or relevant screenshot
   ```
  - Run `clinfo` and add the output here
