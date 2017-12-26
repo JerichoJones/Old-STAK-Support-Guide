@@ -103,7 +103,6 @@ and add the output here
 
 ---
 # AMD OpenCl issue with STAK
- - Provide the error message, log and/or relevant screenshot
   ```
  - Run `clinfo` and add the output here
   ```
