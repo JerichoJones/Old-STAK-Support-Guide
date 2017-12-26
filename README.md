@@ -8,7 +8,7 @@ Make sure you have reviewed the documentation on the Github as well as running:
 ```
 	XMR-STAK --help
 ```
-** ^^ This will answer most How-TO type questions. ^^ **
+**^^ This will answer most How-TO type questions. ^^**
 
 ---
 
