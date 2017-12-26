@@ -14,6 +14,7 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
   
 ## Content Overview
 
+* [What you should be doing to make this go as smoothly as possible](./README.md#what-you-should-be-doing-to-make-this-go-as-smoothly-as-possible)
 * [Basic information](./README.md#basic-information)
 * [Issue with the execution of STAK](./README.md#issue-with-the-execution-of-stak)
 * [Stability issue with STAK](./README.md#stability-issue-with-stak)
