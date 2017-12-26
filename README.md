@@ -103,13 +103,6 @@ and add the output here
 
 ---
 # AMD OpenCl issue with STAK
-- Type of the CPU. Running stock clocks/voltages? If not, provide settings.  
-  
-- Type of the GPU (if you try to miner with the GPU). Running stock clocks/voltages? If not, provide settings.  
-  
-- Amount of RAM memory. Running stock clocks/voltages? If not, provide settings.  
- 
-
  - Provide the error message, log and/or relevant screenshot
   ```
  - Run `clinfo` and add the output here
