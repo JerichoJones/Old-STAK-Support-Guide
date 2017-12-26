@@ -12,7 +12,7 @@ Make sure you have reviewed the documentation on the Github as well as running:
 
 ---
 
-### What you should be doing to make this go as smoothly as possible
+#### What you should be doing to make this go as smoothly as possible
 
 1. Choose a simple, clear title for your Issue Subject
 2. Stick to one problem per issue report.
