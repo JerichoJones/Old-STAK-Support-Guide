@@ -2,7 +2,7 @@
 ---
 **_How-TO and tuning your hardware is not within the scope of Github support and will most likely be ignored._**
 
-_How-TO and tuning type questions are better suited to forums such as [REDDIT](https://www.reddit.com/r/MoneroMining/new/).
+_How-TO and tuning type questions are better suited to forums such as [REDDIT/r/moneromining](https://www.reddit.com/r/MoneroMining/new/).
 There is a much larger audience of people that have probably
 already been through and resolved the same issue._
 
