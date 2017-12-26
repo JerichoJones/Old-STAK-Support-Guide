@@ -1,6 +1,6 @@
 ## How to Submit an Issue Like A Boss!
 ---
-_How-TO type questions are better suited to forums such as REDDIT.
+_How-TO type questions are better suited to forums such as [REDDIT](https://www.reddit.com/r/MoneroMining/new/).
 There is a much larger audience of people that have probably
 already been through and resolved the same issue._
 
