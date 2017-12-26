@@ -15,7 +15,7 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 ## Content Overview
 
 * [Basic information](./README.md#basic-information)
-* [Issue with the execution of XMR-STAK](./README.md#Issue-with-the-execution-of-XMR--STAK)
+* [Issue with the execution of XMR-STAK](./README.md#Issue-with-the-execution-of-XMR\-STAK)
   
   
 #### What you should be doing to make this go as smoothly as possible
