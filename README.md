@@ -41,11 +41,10 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 	e. If useful, edit the screenshot with circles or arrows to highlight the error.
     
 7. Describe what steps you have performed in an attempt to resolve the issue.
-8. Complete the template below:
-
-
+8. Complete the applicable template section(s) below:
 _**Please provide as much as possible information to reproduce the issue. Use the section that applies to your issue.**_
-
+9. If you resolved your issue please add it to the Issue so others may benefit from your success!
+10. If you resolved your issue please close it. It would really help us out!
 ---
 
 # Issue with the execution of STAK
