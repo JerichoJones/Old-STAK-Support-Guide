@@ -36,7 +36,7 @@ if (isAwesome){
 A great tool for creating Markdown documents is [StackEdit](https://stackedit.io/app).
 I used it to edit this guide. ***I highly recommend it.*** - JJ
 
-Create the formatted document for your issue in [StackEdit](https://stackedit.io/app) and paste it into your Issue here.
+Create the formatted document for your issue in [StackEdit](https://stackedit.io/app) and paste it into your Issue in github.
 
 #### What you should be doing to make this go as smoothly as possible
 
