@@ -26,16 +26,18 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
   
 #### What you should be doing to make this go as smoothly as possible
 
-Use [Markdown](https://guides.github.com/features/mastering-markdown/#) (formatting) for logs or code that you post in an Issue ticket.  
-You will look like a genius and make the text you paste in actually readable! Win! Win!  
+Use [Markdown](https://guides.github.com/features/mastering-markdown/) (formatting) for logs or code that you post in an Issue ticket.  
+
+You will look like a genius and make the text you paste in actually readable! Win! Win! :+1:  
 Below is a simple example of how to create a code box for your logs/code:
 
 ```  
-` ` `  
+  
+```  
 if (isAwesome){  
     return true  
 }  
-` ` `  
+```  
 ```
 [Markdown](https://guides.github.com/features/mastering-markdown/#) explains this much better so please take a minurte to review it.  
 
