@@ -8,7 +8,7 @@ already been through and resolved the same issue._
 
 Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xmr-stak/tree/master/doc) on the Github as well as running:
 ```
-	xm-stak --help
+	xmr-stak --help
 ```
 **^^ This will answer most How-TO type questions. ^^**
 
