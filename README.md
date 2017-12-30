@@ -62,7 +62,7 @@ _**Please provide as much as possible information to reproduce the issue. Use th
 6. If you resolved your issue please note what you did in the Issue ticket so others may benefit from your success!
 7. If you resolved your issue please close it. It would really help us out!
 
-Don't be _**that guy**_ and jump into an Issue with your issue unless it is exactly the same. It just confuses the whole situation.
+Please don't be _**that guy**_ and jump into an Issue with your issue unless it is exactly the same. It just confuses the whole situation.
 
 At best, you will be ignored. At worst, you will be mercilessly mocked.
 
