@@ -1,3 +1,4 @@
+
 ## How to Submit an Issue Like A Boss!
 ---
 **_How-TO and tuning your hardware is not within the scope of Github support and will most likely be ignored._**
@@ -23,9 +24,6 @@ Make sure you have reviewed the [documentation](https://github.com/fireice-uk/xm
 * [Issue Compiling STAK](#issue-compiling-stak)
 * [Other Issue with STAK](#other-issue-with-stak)
 
-  
-#### What you should be doing to make this go as smoothly as possible
-
 Use [Markdown](https://guides.github.com/features/mastering-markdown/) (formatting) for logs or code that you post in an Issue ticket.  
 
 You will look like a genius and make the text you paste in actually readable! Win! Win! :+1:  
@@ -35,7 +33,12 @@ if (isAwesome){
     return true  
 }  
 ```
-[Markdown](https://guides.github.com/features/mastering-markdown/#) explains this much better so please take a minute to review it.  
+A great tool for creating Markdown documents is [StackEdit](https://stackedit.io/app).
+I used it to edit this guide. ***I highly recommend it.*** - JJ
+
+Create the formatted document for your issue in [StackEdit](https://stackedit.io/app) and paste it into your Issue here.
+
+#### What you should be doing to make this go as smoothly as possible
 
 1. Choose a simple, clear title for your Issue Subject
 2. Stick to one problem per issue report.
