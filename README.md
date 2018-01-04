@@ -1,7 +1,7 @@
 
 ## How to Submit an Issue Like A Boss!
 ---
-**_How-TO and tuning your hardware is not within the scope of Github support and will most likely be ignored._**
+**_How-TO and tuning your hardware is not within the scope of Github support and will most likely be ignored.  It is just not possible for us to know how to tune every model/version of a component._**
 
 _How-TO and tuning type questions are better suited to forums such as [REDDIT/r/moneromining](https://www.reddit.com/r/MoneroMining/new/).
 There is a much larger audience of people that have probably
